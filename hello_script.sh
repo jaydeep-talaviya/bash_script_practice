@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "hello bash script abc"
+echo "hello bash script abc" > generated.txt
