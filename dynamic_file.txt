@@ -1,2 +1,4 @@
 this is going to be dynamic line and save into file
 this is second line
+this is third line
+this is fourth line , click enter to do next linechanged file
