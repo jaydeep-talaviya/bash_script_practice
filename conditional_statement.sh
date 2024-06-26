@@ -20,7 +20,7 @@ fi
 
 age=150
 
-if [[ $age -gt 18  &&  $age -lt 40 ]]
+if [[ $age -gt 18  ||  $age -lt 40 ]]
 then 
     echo "i am adult"
 elif [[ $age -gt 12  &&  $age -lt 19 ]]
