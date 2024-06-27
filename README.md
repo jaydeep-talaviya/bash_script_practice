@@ -8,9 +8,8 @@
 8-how to send output from one script to another scrpt\
 9-String Processing\
 10-Numbers and Arithmetic\
-11-Declare Command\
-12-Arrays\
-13-Functions\
-14-Files and Directories\
-15-Curl in Scripts\
-16-Professional Menus\
+11-Arrays\
+12-Functions\
+13-Files and Directories\
+14-Curl in Scripts\
+15-Professional Menus\
